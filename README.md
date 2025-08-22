@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhinav M</h1>
-<h3 align="center">Full Stack Developer | Flutter Enthusiast | AI & Cloud Learner</h3>
+<h3 align="center">Full Stack Developer | ML Enthusiast | AI & Cloud Learner</h3>
 
 <p align="center">
+📈 Amazon ML Summer School 2025.<br>
 🚀 Passionate about building impactful web and mobile apps using modern tech.<br>
 🎯 Currently seeking opportunities in software development, internships, or full-time roles.<br>
 💡 Final year B.Tech (AI & Data Science) student from SVCE, Tamil Nadu (CGPA: 8.78)
@@ -23,7 +24,7 @@
 
 - 📫 Reach me at: **abhi5555ash@gmail.com**
 - 💼 LinkedIn: [abhinav070](https://linkedin.com/in/abhinav070)
-- 🧠 Fun fact: I’ve solved **130+ LeetCode problems** with a **60+ day streak!**
+- 🧠 Fun fact: I’ve solved **250+ LeetCode problems** with a **80+ day streak!**
 
 ---
 
