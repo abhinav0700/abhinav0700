@@ -71,7 +71,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinav0700&show_icons=true&theme=dark" alt="Abhinav's GitHub stats"/>
+  <img src="https://img.shields.io/github/followers/abhinav0700?label=Followers&style=for-the-badge&color=0F5C5C" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/abhinav0700?label=Stars&style=for-the-badge&color=0F5C5C" alt="GitHub stars"/>
 </p>
 
 ---
