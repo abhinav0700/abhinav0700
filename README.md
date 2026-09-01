@@ -5,8 +5,7 @@
 🏢 Software Engineer at <b>Freightify</b> — Node.js, React, containerized infra at 99.99% uptime<br>
 🚀 Co-Founder & CTO of <b>Tivor</b> — building <a href="https://www.jobready.coach/">JobReady</a> and ManufAI<br>
 📈 Amazon ML Summer School 2025 Scholar<br>
-🎓 B.Tech (AI & Data Science), SVCE, Tamil Nadu — CGPA 8.78 (2022–2026)<br>
-🇮🇳 Currently building for Smart India Hackathon 2026 (Team HexAckers) — Explainable AI for Diabetic Retinopathy Screening
+🎓 B.Tech (AI & Data Science), SVCE, Tamil Nadu — CGPA 8.78 (2022–2026)
 </p>
 
 ---
@@ -61,9 +60,6 @@
 - 🏭 **ManufAI** — *Tivor*
   AI-powered manufacturing feasibility platform — users upload engineering blueprints and get an automated feasibility report using a multimodal vision LLM. In production use at Sri Durga Agro Exports.
 
-- 🩺 **Explainable AI for Diabetic Retinopathy Screening** — *Smart India Hackathon 2026, Team HexAckers*
-  Building for SIH 2026 (PS 26038, sponsored by MathWorks) — explainable AI for retinopathy screening in rural India.
-
 - 🎓 **[Strong Alumni](https://github.com/abhinav0700/Strong-Alumni)**
   Role-based alumni & student job portal — React, Flutter, Firebase, Node.js.
 
@@ -75,7 +71,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinav0700&show_icons=true&theme=dark&count_private=true" alt="Abhinav's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinav0700&show_icons=true&theme=dark" alt="Abhinav's GitHub stats"/>
 </p>
 
 ---
