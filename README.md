@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhinav M</h1>
-<h3 align="center">Software Engineer @ Freightify | Co-Founder & CTO @ Tivor | Full-Stack & AI</h3>
+<h3 align="center">Software Engineer | Full-Stack & AI</h3>
 
 <p align="center">
-🏢 Software Engineer at <b>Freightify</b> — Node.js, React, containerized infra at 99.99% uptime<br>
-🚀 Co-Founder & CTO of <b>Tivor</b> — building <a href="https://www.jobready.coach/">JobReady</a> and ManufAI<br>
+🤖 I build production <b>AI/LLM products</b> — multimodal document extraction, autonomous agent workflows, and RAG<br>
+🏢 Software Engineer at <b>Freightify</b> — Go, Node.js, React, containerized infra at 99.99% uptime<br>
 📈 Amazon ML Summer School 2025 Scholar<br>
 🎓 B.Tech (AI & Data Science), SVCE, Tamil Nadu — CGPA 8.78 (2022–2026)
 </p>
@@ -12,8 +12,8 @@
 
 ### 🧑‍💻 About Me
 
-- 💼 Full-time Software Engineer at Freightify, Chennai — own core Rate Management System modules
-- 🛠️ Alongside that, lead engineering and product at Tivor, an early-stage venture
+- 💼 Software Engineer at Freightify, Chennai — own core Rate Management System modules and data ingestion pipelines
+- 🤖 Focused on shipping AI-native products end-to-end: LLM extraction pipelines, agent workflows, and the backend services behind them
 - 🏆 Hackathon Achievements:
   - 🥈 Runner-up – Make-a-Thon (SVCE)
   - 🥈 Runner-up – Datatrix 2024 (SRM)
@@ -35,6 +35,12 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
+#### AI & LLM
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
 #### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -54,17 +60,20 @@
 
 ### 🔗 Notable Projects
 
-- 🎮 **[JobReady](https://www.jobready.coach/)** — *Tivor*
-  8-week gamified career-readiness simulation for aspiring software engineers: real Kanban taskboard, in-browser code editor, authentic GitHub branch/PR workflow, and AI-driven HR/manager roleplay. Live in production with 1,000+ students.
+- 🎮 **[JobReady](https://www.jobready.coach/)**
+  8-week gamified career-readiness simulation for aspiring software engineers — real Kanban taskboard, in-browser Monaco code editor, and an authentic GitHub branch/PR workflow on the user's own account. AI-driven HR/manager personas with streaming chat, automated PR code review, and personalized readiness assessments. Live in production with 1,000+ students.
+  `React` `TypeScript` `Node.js` `Supabase`
 
-- 🏭 **ManufAI** — *Tivor*
-  AI-powered manufacturing feasibility platform — users upload engineering blueprints and get an automated feasibility report using a multimodal vision LLM. In production use at Sri Durga Agro Exports.
+- 🏭 **ManufAI**
+  AI-powered manufacturing feasibility platform — upload engineering blueprint PDFs and a multimodal vision LLM extracts dimensions, tolerances, and materials, then scores feasibility against in-house machine constraints and routes out-of-capability work to vendor recommendations. In production use at Sri Durga Agro Exports.
+  `Next.js` `TypeScript` `OpenAI Vision API`
 
 - 🎓 **[Strong Alumni](https://github.com/abhinav0700/Strong-Alumni)**
-  Role-based alumni & student job portal — React, Flutter, Firebase, Node.js.
+  Role-based alumni & student job portal with real-time messaging and Elasticsearch-backed search.
+  `React` `Flutter` `Firebase` `Node.js`
 
 - 🧾 **[Bank Statement / Fund Trail Analyzer](https://github.com/abhinav0700/fundtrail)**
-  AI-powered app that analyzes financial-statement fund flows for fraud/flow analysis.
+  AI-powered app that analyzes financial-statement fund flows for fraud and money-trail analysis.
 
 ---
 
@@ -79,11 +88,12 @@
 
 ### 📜 Certifications
 
+- 🧠 Amazon ML Summer School 2025
 - ✅ NPTEL – Software Testing
 - ☁️ NPTEL – Cloud Computing
 - 🔧 Infosys Springboard – Full Stack
 - 📱 Infosys Springboard – Flutter Mobile App Dev
-- 🧠 Forage (Deloitte, Walmart, AWS) – Virtual Experiences
+- 🎯 Forage (Deloitte, Walmart, AWS) – Virtual Experiences
 
 ---
 
